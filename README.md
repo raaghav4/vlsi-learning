@@ -1,8 +1,3 @@
-## 👨‍💻 About Me
-- 3rd Year ECE Student — Salem, Tamil Nadu
-- Targeting core VLSI companies (Qualcomm, Intel, TI)
-- Tools: Verilog HDL, Xilinx Vivado, EDA Playground
-
 # vlsi-learning
 30-day VLSI &amp; Digital Design learning journey — Verilog, FSM, FPGA, UART
 # VLSI Learning Journey 🔌
