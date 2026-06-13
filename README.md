@@ -38,7 +38,7 @@ from scratch — built as part of placement preparation.
 | UART Module | ⏳ Day 28 | Verilog, Vivado |
 
 ## 📅 Progress
-Started: June 2025 | Target: 30 days
+Started: June 2026 | Target: 30 days
 
 ## 📁 Repository Structure
 vlsi-learning/
