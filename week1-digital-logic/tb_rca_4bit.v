@@ -25,4 +25,3 @@ module tb_rca_4bit;
     $monitor("Time=0%t a=%b b=%b cin=%b sum=%b cout=%b c0=%b c1=%b c2=%b",$time,a,b,cin,sum,cout,dut.c0,dut.c1,dut.c2);
   end
 endmodule
-    
