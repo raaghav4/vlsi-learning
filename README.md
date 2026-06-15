@@ -15,7 +15,7 @@ from scratch — built as part of placement preparation.
 - ✅ K-Map Simplification
 - ✅ Combinational Circuits (MUX, Decoder, Encoder)
 - ✅ Arithmetic Circuits (Adders, Subtractor, BCD)
-- 🔄 Verilog HDL (In Progress)
+- ✅ Verilog HDL — Modelling styles, Testbench, Module instantiation
 - ⏳ Sequential Circuits & FSM
 - ⏳ FPGA Design (Xilinx Vivado)
 - ⏳ UART Protocol Implementation
@@ -32,7 +32,7 @@ from scratch — built as part of placement preparation.
 ## 🏆 Projects
 | Project | Status | Tools |
 |---------|--------|-------|
-| 4-bit Ripple Carry Adder | ⏳ Day 7 | Verilog, EDA Playground |
+| 4-bit Ripple Carry Adder | ✅ Done  | Verilog, EDA Playground |
 | Traffic Light FSM | ⏳ Day 14 | Verilog, ModelSim |
 | 4-bit ALU | ⏳ Day 21 | Verilog, Vivado |
 | UART Module | ⏳ Day 28 | Verilog, Vivado |
