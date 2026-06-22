@@ -34,7 +34,7 @@ from scratch — built as part of placement preparation.
 | Project | Status | Tools |
 |---------|--------|-------|
 | 4-bit Ripple Carry Adder | ✅ Done  | Verilog, EDA Playground |
-| Traffic Light FSM | ✅ Done | Verilog, ModelSim |
+| Traffic Light FSM | ✅ Done | Verilog, EDA Playground |
 | 4-bit ALU | ⏳ Day 21 | Verilog, Vivado |
 | UART Module | ⏳ Day 28 | Verilog, Vivado |
 
