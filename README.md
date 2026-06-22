@@ -16,7 +16,8 @@ from scratch — built as part of placement preparation.
 - ✅ Combinational Circuits (MUX, Decoder, Encoder)
 - ✅ Arithmetic Circuits (Adders, Subtractor, BCD)
 - ✅ Verilog HDL — Modelling styles, Testbench, Module instantiation
-- ⏳ Sequential Circuits & FSM
+- ✅ Sequential Logic — Flip-Flops, Counters, Shift Registers
+- ✅ FSM Design — Moore FSM, 3-block style, Traffic Light Controller
 - ⏳ FPGA Design (Xilinx Vivado)
 - ⏳ UART Protocol Implementation
 
@@ -33,7 +34,7 @@ from scratch — built as part of placement preparation.
 | Project | Status | Tools |
 |---------|--------|-------|
 | 4-bit Ripple Carry Adder | ✅ Done  | Verilog, EDA Playground |
-| Traffic Light FSM | ⏳ Day 14 | Verilog, ModelSim |
+| Traffic Light FSM | ✅ Done | Verilog, ModelSim |
 | 4-bit ALU | ⏳ Day 21 | Verilog, Vivado |
 | UART Module | ⏳ Day 28 | Verilog, Vivado |
 
